@@ -30,6 +30,7 @@
 | `notes/` | 笔记与周复盘 |
 
 ## 仓库结构
+```
 learning-log/
 ├── README.md                    # 首页看板：我是谁、目标、进度
 ├── .gitignore                   # 必须，见第三节
@@ -61,3 +62,4 @@ learning-log/
     ├── git-cheatsheet.md
     ├── python-pitfalls.md
     └── 2026-09-22_第一周复盘.md
+```
