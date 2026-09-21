@@ -1,0 +1,36 @@
+# ---- 虚拟环境 ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Python 缓存与构建 ----
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# ---- IDE 配置 ----
+.idea/
+.vscode/
+*.iml
+
+# ---- ⚠️ 密钥与环境变量（最重要，别删）----
+.env
+.env.*
+*.key
+secrets.py
+config.local.py
+
+# ---- 数据与输出 ----
+*.log
+*.db
+*.sqlite3
+data/
+output/
+
+# ---- 系统文件 ----
+.DS_Store
+Thumbs.db
+desktop.ini
